@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>portada</title>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <h2 style="   text-align: center;">Bienvenida :) </h2>
+    <h2 style="   text-align: center;">Muchas gracias por acceder al link</h2>
+    <p><br>
+    </p>
+    <p style="text-align: center;"><a href="primera%20pagina.html">Haz click
+        aqui para ir a la siguente página</a></p>
+  </body>
+</html>
